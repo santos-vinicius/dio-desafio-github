@@ -1,6 +1,6 @@
 ## Desafio GitHub - DIO
 
-Olá! Bem vindo ao repositório de comandos do Git:wave: criado durante o curso de **Introdução ao Git e GitHub** da  **Digital Innovation One ** com o objetivo de colocar em prática os principais conceitos de versionamento de código. 
+Olá! Bem vindo ao repositório de comandos do Git:wave: criado durante o curso de **Introdução ao Git e GitHub** da  **Digital Innovation One** com o objetivo de colocar em prática os principais conceitos de versionamento de código. 
 
 Durante o curso aprendemos como utilizar os principais comandos do Git e como criar o seu primeiro repositório no GitHub.
 
